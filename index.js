@@ -6,10 +6,6 @@ const data = {
 
 console.log(data)
 
-<<<<<<< HEAD
 #imagine a feature of authentication has been added to this branch.
 
 #this is dev branch
-=======
-#this is dev branch.
->>>>>>> dev
